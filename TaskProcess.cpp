@@ -3,6 +3,7 @@
 #define Arduino
 
 #ifdef Arduino
+#include "Arduino.h"
 #define TimeCurrent millis()
 #endif // 
 
