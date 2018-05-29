@@ -1,6 +1,6 @@
 #include "TaskProcess.h"
 
-#define Windows
+#define Arduino
 
 #ifdef Arduino
 #define TimeCurrent millis()
